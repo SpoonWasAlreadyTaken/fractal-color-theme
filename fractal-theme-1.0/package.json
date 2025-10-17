@@ -1,0 +1,70 @@
+{
+	"name": "fractal-color-theme",
+	"displayName": "Fractal Color Theme",
+	"description": "Based on the Dragan color theme with c++ support",
+	"version": "2.0.8",
+	"engines": {
+		"vscode": "^1.76.0"
+	},
+	"publisher": "Spoon",
+	"author": {
+		"name": "Spoon",
+		"url": "https://github.com/spoonwasalreadytaken",
+		"email": "laserpyoro@gmail.com"
+	},
+	"repository": {
+		"url": "https://github.com/miladfathy"
+	},
+	"icon": "image/icon.png",
+	"keywords": [
+		"dark",
+		"theme",
+		"dark theme",
+		"dark theme vscode",
+		"beauful",
+		"colorfull",
+		"colourfull",
+		"rainbow",
+		"rainbow color theme",
+		"beautifu color theme",
+		"colorize color theme",
+		"tiny Theme",
+		"colour theme",
+		"vscode colour theme",
+		"best dark theme",
+		"php",
+		"laravel",
+		"json",
+		"js",
+		"javascript",
+		"java scripts",
+		"css",
+		"python",
+		"html",
+		"c++"
+	],
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "fractal",
+				"uiTheme": "vs-dark",
+				"path": "themes/fractal-color-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "ab8862ea-f7c1-402f-875f-c41b6f2381fa",
+		"publisherId": "cd90fff4-4e2a-42d6-844d-aadffebcc118",
+		"publisherDisplayName": "Spoon",
+		"installedTimestamp": 1760513324013,
+		"targetPlatform": "undefined",
+		"isApplicationScoped": false,
+		"updated": true,
+		"isPreReleaseVersion": false,
+		"preRelease": false,
+		"size": 80548
+	}
+}
