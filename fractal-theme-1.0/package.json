@@ -9,11 +9,11 @@
 	"publisher": "Spoon",
 	"author": {
 		"name": "Spoon",
-		"url": "https://github.com/spoonwasalreadytaken",
+		"url": "https://github.com/SpoonWasAlreadyTaken",
 		"email": "laserpyoro@gmail.com"
 	},
 	"repository": {
-		"url": "https://github.com/miladfathy"
+		"url": "https://github.com/SpoonWasAlreadyTaken/fractal-color-theme"
 	},
 	"icon": "image/icon.png",
 	"keywords": [
