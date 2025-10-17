@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 	<PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
 		<Metadata>
-			<Identity Language="en-US" Id="dragan-color-theme" Version="2.0.8" Publisher="Miladfathy" />
-			<DisplayName>Dragan Color Theme</DisplayName>
-			<Description xml:space="preserve">A Beautiful Dark Color Theme For VSCode</Description>
+			<Identity Language="en-US" Id="fractal-color-theme" Version="2.0.8" Publisher="Spoon />
+			<DisplayName>Fractal Color Theme</DisplayName>
+			<Description xml:space="preserve">Dragan inspired theme for c++ support</Description>
 			<Tags>dark,theme,dark theme,dark theme vscode,beauful,colorfull,colourfull,rainbow,rainbow color theme,beautifu color theme,colorize color theme,tiny Theme,colour theme,vscode colour theme,best dark theme,php,laravel,json,js,javascript,java scripts,css,python,html,color-theme,__web_extension</Tags>
 			<Categories>Themes</Categories>
 			<GalleryFlags>Public</GalleryFlags>
